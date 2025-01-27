@@ -4,3 +4,4 @@ pandas
 numpy
 matplotlib
 seaborn
+gunicorn==22.0.0
